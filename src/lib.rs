@@ -29,7 +29,7 @@ mod cow_mut;
 mod sll;
 #[allow(unsafe_code)]
 mod arc;
-#[cfg(feature = "serde1")]
+#[cfg(feature = "serde")]
 mod serde_impls;
 pub mod ast;
 

@@ -1,8 +1,8 @@
 # Rowan
 
-[![docs.rs](https://docs.rs/rowan/badge.svg)](https://docs.rs/rowan/)
-[![Crates.io](https://img.shields.io/crates/v/rowan.svg)](https://crates.io/crates/rowan)
-[![Crates.io](https://img.shields.io/crates/d/rowan.svg)](https://crates.io/crates/rowan)
+[![docs.rs](https://docs.rs/miden-rowan/badge.svg)](https://docs.rs/miden-rowan/)
+[![Crates.io](https://img.shields.io/crates/v/miden-rowan.svg)](https://crates.io/crates/miden-rowan)
+[![Crates.io](https://img.shields.io/crates/d/miden-rowan.svg)](https://crates.io/crates/miden-rowan)
 
 Rowan is a library for lossless syntax trees, inspired in part by
 Swift's [libsyntax](https://github.com/apple/swift/tree/5e2c815edfd758f9b1309ce07bfc01c4bc20ec23/lib/Syntax).

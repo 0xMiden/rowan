@@ -418,7 +418,7 @@ impl TextLen for char {
     }
 }
 
-#[cfg(feature = "serde1")]
+#[cfg(feature = "serde")]
 mod serde_impls {
     use serde::{Deserialize, Deserializer, Serialize, Serializer, de};
 
